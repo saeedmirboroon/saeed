@@ -62,8 +62,8 @@ inf => Returns a floating-point positive infinity
 nan => Returns a floating-point NaN (Not a Number) value
 """)
 
-a=int(input("inter number{1} >> :")) 
-b=int(input("inter number{2} >> :"))
+a=float(input("inter number{1} >> :")) 
+b=float(input("inter number{2} >> :"))
 c = input("inter action")
 
 if c == "*":
