@@ -1,3 +1,3 @@
-# saeed
-programer python/ web/c#/c++/perl and
+# calculator for engineer with >100 tools
+
 ...
